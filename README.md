@@ -30,13 +30,13 @@ This project is created for **learning and practice purposes**, focusing on layo
 ## 📸 Screenshots
 
 ### Homepage (Top Section)
-![Homepage](screenshots/Screenshot(109).png)
+![Homepage](./screenshots/Screenshot%20(109).png)
 
 ### Product Categories Section
-![Products Section](screenshots/Screenshot(110).png)
+![Products Section](./screenshots/Screenshot%20(110).png)
 
 ### Footer Section
-![Footer](screenshots/Screenshot(111).png)
+![Footer](./screenshots/Screenshot%20(111).png)
 
 > Make sure the screenshots are placed in the root directory or update the paths accordingly.
 
